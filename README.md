@@ -1,5 +1,5 @@
 # fezai-2
-Halley'in Çırakları Rocket Team - Fezai II - Flight Computer
+Halley'in Çırakları Rocket Team - Fezai II - Flight Computer - 2021
 
 Main Flight Computer -> Teensy 3.5 Microcontroller
                      -> Adafruit Ultimate GPS
